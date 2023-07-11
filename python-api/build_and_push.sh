@@ -2,7 +2,7 @@
 
 # Define variables
 DOCKERFILE_PATH="./Dockerfile"
-AWS_ACCOUNT_ID="564208559043"
+AWS_ACCOUNT_ID=""
 AWS_REGION="eu-west-2"
 ECR_REPOSITORY="flask-app"
 CONTAINER_NAME="flask-app"
